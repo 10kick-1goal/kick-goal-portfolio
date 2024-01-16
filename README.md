@@ -1,11 +1,9 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
+# my Portfolio 
 
-## A minimal portfolio template for Developers!
-
-<h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+<!-- <h2 align="center">
+  <img src="https://github.com/10kick-1goal/kick-goal-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
   <br>
-</h2>
+</h2> -->
 
 ## Features
 
