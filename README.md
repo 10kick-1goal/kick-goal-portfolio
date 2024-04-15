@@ -6,7 +6,6 @@
 </h2> -->
 
 ## Features
-
 ⚡️ Modern UI Design + Reveal Animations\
 ⚡️ Made with React\
 ⚡️ Fully Responsive\
